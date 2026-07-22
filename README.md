@@ -28,7 +28,7 @@ pip install telethon
 Acquire your development application authorization keys from the official API portal at [my.telegram.org](https://telegram.org). Update the configuration block at the root level of `userbot.py`:
 
 ```python
-API_ID = 33104475  # Enforced unique identifier
+API_ID = 1234567 # Enforced unique identifier
 API_HASH = "YOUR_SECURE_API_HASH"  # Encrypted transport key
 ```
 
